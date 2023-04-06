@@ -1,6 +1,12 @@
 <!doctype html>
 <html lang="en">
+<<<<<<< HEAD
   <head>
+=======
+
+<head>
+ {{-- tanda --}}
+>>>>>>> 6fae2e9f5b016891a826266e4d46b8c850a994a2
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
