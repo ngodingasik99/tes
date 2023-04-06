@@ -5,8 +5,12 @@
 =======
 
 <head>
+<<<<<<< HEAD
  {{-- tanda --}}
 >>>>>>> 6fae2e9f5b016891a826266e4d46b8c850a994a2
+=======
+ {{-- tanda tanda jdfhsdjfhsdjfh --}}
+>>>>>>> fa49a1bb3571b75b4169a3e04fef1c603bff1e06
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
