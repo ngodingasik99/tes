@@ -11,6 +11,10 @@
     <title>Hello, world!</title>
   </head>
   <body>
+<<<<<<< HEAD
+=======
+    {{-- menambahkan navbar --}}
+>>>>>>> 0a97ccc6689447065e0d92d30b18107fcc632cf1
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
