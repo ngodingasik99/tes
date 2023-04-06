@@ -1,20 +1,7 @@
 <!doctype html>
 <html lang="en">
-<<<<<<< HEAD
   <head>
-=======
-
 <head>
-<<<<<<< HEAD
-<<<<<<< HEAD
- {{-- tanda --}}
->>>>>>> 6fae2e9f5b016891a826266e4d46b8c850a994a2
-=======
- {{-- tanda tanda jdfhsdjfhsdjfh --}}
->>>>>>> fa49a1bb3571b75b4169a3e04fef1c603bff1e06
-=======
->>>>>>> bf21fed18bfe2fbd0ba9627cba00c4b8072b4536
-{{-- asse --}}
     <meta charset="utf-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
