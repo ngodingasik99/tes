@@ -8,7 +8,11 @@
     <meta name="generator" content="Hugo 0.84.0">
     <title>Signin Template · Bootstrap v5.0</title>
 
+<<<<<<< HEAD
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sign-in/">
+=======
+    <title>Aplikasi Pos</title> 
+>>>>>>> 10e548572090a7bdf6f47d3074ecb1893aa944f9
 
     
 
